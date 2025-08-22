@@ -45,6 +45,9 @@ body {
 iframe {
   width: 80%;
   height: auto;
+  
+  width: -webkit-fill-available;
+  height: 400px;
   border-radius: 5%;
   overflow: hidden;
   display: block;  
